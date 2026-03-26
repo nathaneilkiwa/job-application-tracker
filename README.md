@@ -3,12 +3,10 @@ Track your job hunt like a pro
 <p align="center"> <img src="https://img.shields.io/badge/Frontend-React-blue?style=for-the-badge&logo=react" /> <img src="https://img.shields.io/badge/Backend-Node.js-green?style=for-the-badge&logo=node.js" /> <img src="https://img.shields.io/badge/Database-MongoDB-brightgreen?style=for-the-badge&logo=mongodb" /> <img src="https://img.shields.io/badge/Styling-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css" /> </p> <p align="center"> <b>A modern full-stack Kanban-style job tracker with analytics and a beautiful UI.</b> </p>
 ✨ Preview
 
-📸 Add your screenshots here (VERY important)
+"C:\Users\Malema\OneDrive - Sedibeng TVET College\Pictures\Screenshots\Screenshot 2026-03-26 153301.png"
 
-![Dashboard](<img width="533" height="801" alt="Screenshot 2026-03-26 153301" src="https://github.com/user-attachments/assets/0ad441bb-0672-4026-8835-9191dd80636d" />
-)
-![Kanban Board](<img width="526" height="447" alt="Screenshot 2026-03-26 153348" src="https://github.com/user-attachments/assets/955827df-edda-4d4e-84cd-2700c61575fc" />
-)
+"C:\Users\Malema\OneDrive - Sedibeng TVET College\Pictures\Screenshots\Screenshot 2026-03-26 153348.png"
+
 
 🚀 Features
 + Add and manage job applications
