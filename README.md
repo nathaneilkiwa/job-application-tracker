@@ -92,15 +92,7 @@ npm run dev
 4. Track progress in dashboard
 📸 Screenshots (IMPORTANT)
 
-Create folder:
 
-frontend/public/screenshots/
-
-Add:
-
-dashboard.png
-kanban.png
-chart.png
 🚀 Future Improvements
 🔐 Authentication (JWT)
 🌍 Deployment (Vercel + Render)
